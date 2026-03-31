@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi I'm Uviwe Cewana, a Data Analyst<br>Currently Learning Python and ML<br>Working on Sales and Marketing Analytics projects<br><br>
+# 💫 Hi there I'm Uviwe Cewana:
+I'm a Data Analyst with 4 years of experience, most recently in Tech/Saas Sales<br>Currently Learning Python and ML<br>Working on Sales and Marketing Analytics projects<br><br>
 
 
 ## 🌐 Socials:

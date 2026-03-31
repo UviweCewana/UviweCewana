@@ -1,5 +1,8 @@
 # 💫 Hi there I'm Uviwe Cewana:
-I'm a Data Analyst with 4 years of experience, most recently in Tech/Saas Sales<br>Currently Learning Python and ML<br>Working on Sales and Marketing Analytics projects<br><br>
+Data Analyst bridging the gap between business and data.
+4+ years in B2B SaaS + Data Governance | SQL • Python • Power BI • Databricks
+Building pipelines, cleaning messy datasets, and delivering insights that actually drive decisions.
+📍 Currently exploring ML, NLP, and Sales Analytics.
 
 
 ## 🌐 Socials:

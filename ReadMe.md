@@ -1,7 +1,7 @@
-# 💫 Hi there I'm Uviwe Cewana:
-Data Analyst bridging the gap between business and data.
-4+ years in B2B SaaS + Data Governance | SQL • Python • Power BI • Databricks
-Building pipelines, cleaning messy datasets, and delivering insights that actually drive decisions.
+# 💫 Hi there I'm Uviwe Cewana
+Data Analyst bridging the gap between business and data.</br>
+4 years in B2B SaaS + Data Governance | SQL • Python • Power BI • Databricks</br>
+Building pipelines, cleaning messy datasets, and delivering insights that actually drive decisions.</br>
 📍 Currently exploring ML, NLP, and Sales Analytics.
 
 
